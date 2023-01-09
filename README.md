@@ -21,7 +21,7 @@
 
     <div class="user">
         <img src="image/user-img.png" alt="">
-        <h3>NGUYỄN TIẾN MINH</h3>
+        <h3>LÊ HOÀNG PHÚC</h3>
         <P>I'm A Student</P>
     </div>
 
@@ -61,19 +61,19 @@
     <div class="row">
 
         <div class="content">
-            <p>- Họ Và Tên : #<br>
+            <p>- Họ Và Tên : LÊ HOÀNG PHÚC<br>
                 <br>
-            - Ngày Sinh : #<br>
+            - Ngày Sinh : 25-09-2007<br>
             <br>
-        - Nơi Ở : #<br>
+        - Nơi Ở : TUY AN.PHÚ YÊN.VIETNAM<br>
         <br>
-    - Số Điện Thoại : #<br>
+    - Số Điện Thoại : 0336321753<br>
     <br>
-<p>- Sở thích : #<br>
+<p>- Sở thích : VIẾT CODE WEBSITE<br>
     <br>
-    - Sợ : #<br>
+    - Sợ : MA, RẮN, SÂU<br>
     <br>
-    - Ước mơ : # </p>
+    - Ước mơ : ĐC LÀM VIỆC CHO CÔNG TI IT</p>
 
         </div>
 
@@ -91,16 +91,16 @@
 
         <div class="box">
             <i class="fa-solid fa-building-columns"></i>
-            <h3>Ngân Hàng : #</h3>
-            <p><b>Số Tài Khoản : #</b></p>
-            <p><b>Chủ Tài Khoản : # </b></p>
+            <h3>Ngân Hàng : MOMO</h3>
+            <p><b>Số Tài Khoản : 0336321753</b></p>
+            <p><b>Chủ Tài Khoản : LÊ HOÀNG PHÚC</b></p>
         </div>
 
         <div class="box">
             <i class="fa-solid fa-building-columns"></i>
-            <h3>Ngân Hàng : #</h3>
-            <p><b>Số Tài Khoản :  #</b></p>
-            <p><b>Chủ Tài Khoản : #</b></p>
+            <h3>Ngân Hàng : MOMO</h3>
+            <p><b>Số Tài Khoản :  0336321753</b></p>
+            <p><b>Chủ Tài Khoản : LÊ HOÀNG PHÚC</b></p>
 
         </div>
 
@@ -209,10 +209,6 @@
 <script src="js/script.js"></script>
 <script src="./js/scripsnow.js"></script>
 
-<a>Copyright By Nguyễn Tiến Minh - NTM -</a>
-    
-
-<!--   Copyright By Nguyễn Tiến Minh -NTM-    -->
-<!--Nếu Có Chỉnh Sửa Vui Lòng Ghi Rõ Nguồn Và Cre-->
+<a>Copyright By LÊ HOÀNG PHÚC - NTM -</a>
 </body>
 </html>
